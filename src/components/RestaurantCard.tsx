@@ -1,5 +1,3 @@
-import React from "react";
-
 interface ExpectedProps extends RestaurantAttributes {
   selected: boolean;
   onClick: () => void;
