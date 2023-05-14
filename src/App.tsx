@@ -50,7 +50,7 @@ function App() {
       restaurant_id2: restaurantBIndex,
       rating2: restaurantB.rating,
       reviews2: restaurantB.review_count,
-      preference: 1,
+      preference: selected!,
     };
 
     appendRow(entry).then((res) => {
