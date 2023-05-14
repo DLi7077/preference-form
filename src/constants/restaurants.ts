@@ -6,34 +6,10 @@ export const RESTAURANTS: RestaurantAttributes[] = [
     review_count: 17,
   },
   {
-    _id: "6419279c4072e93504985892",
-    name: "Gong Cha",
-    rating: 4.5,
-    review_count: 68,
-  },
-  {
     _id: "641927a14072e935049858d8",
     name: "Hunter College Cafeteria",
     rating: 1.5,
     review_count: 17,
-  },
-  {
-    _id: "641927b24072e9350498593b",
-    name: "Bedford Falls",
-    rating: 4,
-    review_count: 124,
-  },
-  {
-    _id: "641927b64072e9350498597a",
-    name: "Elim Deli Cafe",
-    rating: 4.5,
-    review_count: 93,
-  },
-  {
-    _id: "641927d54072e93504985c67",
-    name: "Garden Court Cafe",
-    rating: 3.5,
-    review_count: 12,
   },
   {
     _id: "641927e04072e93504985c79",
@@ -42,28 +18,10 @@ export const RESTAURANTS: RestaurantAttributes[] = [
     review_count: 69,
   },
   {
-    _id: "641927e64072e93504985cc8",
-    name: "Starbucks",
-    rating: 4,
-    review_count: 1,
-  },
-  {
     _id: "641927ec4072e93504985cd1",
     name: "Le Pain Quotidien",
     rating: 3.5,
     review_count: 316,
-  },
-  {
-    _id: "641927f04072e93504985d50",
-    name: "Gourmet Bagel",
-    rating: 3,
-    review_count: 95,
-  },
-  {
-    _id: "641927f44072e93504985e74",
-    name: "Lexgourmet",
-    rating: 2.5,
-    review_count: 7,
   },
   {
     _id: "641927fc4072e9350498601f",
@@ -78,24 +36,6 @@ export const RESTAURANTS: RestaurantAttributes[] = [
     review_count: 3,
   },
   {
-    _id: null,
-    name: "The East Pole",
-    rating: 3.5,
-    review_count: 297,
-  },
-  {
-    _id: null,
-    name: "Sette Mezzo",
-    rating: 4,
-    review_count: 84,
-  },
-  {
-    _id: "641928184072e9350498607c",
-    name: "Daniel",
-    rating: 4.5,
-    review_count: 1844,
-  },
-  {
     _id: "6419281d4072e935049860af",
     name: "JOE & THE JUICE",
     rating: 3,
@@ -108,22 +48,10 @@ export const RESTAURANTS: RestaurantAttributes[] = [
     review_count: 157,
   },
   {
-    _id: "641928344072e935049863d7",
-    name: "Crumbl Cookies - Upper East Side",
-    rating: 3.5,
-    review_count: 69,
-  },
-  {
     _id: "6419283c4072e935049863e7",
     name: "Barbaresco Restaurant",
     rating: 4,
     review_count: 103,
-  },
-  {
-    _id: "641928404072e935049863f0",
-    name: "Caffe Aronne",
-    rating: 3.5,
-    review_count: 2,
   },
   {
     _id: "641928434072e9350498643a",
@@ -144,22 +72,10 @@ export const RESTAURANTS: RestaurantAttributes[] = [
     review_count: 12,
   },
   {
-    _id: "641928614072e9350498650b",
-    name: "Emporium Wine Shop",
-    rating: 4,
-    review_count: 5,
-  },
-  {
     _id: null,
     name: "Dunkin'",
     rating: 2,
     review_count: 33,
-  },
-  {
-    _id: "641a72b432788be221faabb9",
-    name: "Wholesome Macelleria",
-    rating: 1.5,
-    review_count: 2,
   },
   {
     _id: "641e4f8ea1d3f3c13abd6789",

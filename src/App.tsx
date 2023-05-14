@@ -9,6 +9,7 @@ const NOT_SELECTED = 0;
 const SELECTED_A = 1;
 const SELECTED_B = 2;
 
+console.log(RESTAURANTS.length)
 function App() {
   const [restaurantAIndex, setRestaurantAIndex] = useState(0);
   const [restaurantBIndex, setRestaurantBIndex] = useState(0);
